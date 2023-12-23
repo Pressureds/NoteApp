@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Aplikasi Catatan v1
 
 ## Requirement

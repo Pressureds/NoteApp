@@ -1,8 +1,0 @@
-{
-  "scripts": {
-    "start": "react-scripts start"
-  },
-  "dependencies": {
-    "tailwindcss": "^3.3.6"
-  }
-}
